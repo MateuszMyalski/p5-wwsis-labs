@@ -27,3 +27,8 @@ Swtórz prosty program, który będzie łączył kolejne punkty przyciśnięcia 
 # Używaj referencji
 W poniższym linku znajdziesz opis działania najpopularniejszych funkcji biblioteki -
 [Opis funkcji](https://p5js.org/reference)
+
+# Większy przykład
+Szerszy przykłąd dostępny w repozytorium:
+[Feed the birds](https://github.com/MateuszMyalski/feed-the-birds)
+wraz z [opisem](https://mateuszmyalski.github.io/2018/05/20/symulator-karmienia-ptak%C3%B3w-biblioteka-p5).
